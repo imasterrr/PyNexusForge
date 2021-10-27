@@ -5,3 +5,4 @@ web3==1.8.6
 requests==0.2.9
 web3==1.2.4
 requests==2.8.8
+web3==0.5.4
