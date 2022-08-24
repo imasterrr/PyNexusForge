@@ -52,3 +52,4 @@
 # optimize 2056
 # fix 8864
 # optimize 2168
+# fix 8979
