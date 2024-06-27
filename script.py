@@ -45,3 +45,4 @@
 # refactor 1292
 # fix 5865
 # optimize 2543
+# optimize 7506
